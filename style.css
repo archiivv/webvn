@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'SimSun';
+    src: url('https://s3.amazonaws.com/arena_images-temp/uploads%2F77fd966b-eca4-4a1a-9374-be514b3f0d6a%2FComfy+Feeling.otf') format('opentype');
+}
+
+body {
+    font-family: 'SimSun';
+    color:rgb(232, 244, 255);
+    background-color:rgb(150, 200, 238);
+}
+
+button {
+    font-family: 'SimSun';
+    background: none;
+    border: solid 5px;
+    border-radius: 2em;
+    padding: 0.75em 2em;
+    color: rgb(232, 244, 255);
+}
+
+.center{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(175, 155, 158);
+}
